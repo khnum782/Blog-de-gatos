@@ -1,18 +1,19 @@
-<h1 align="center"> blog de gatos </h1>
+<h1 align="center"> cat blog </h1>
 
 <p align="center">
-nesse projeto fiz uma atividade da trilha explorer da rockteset que amplia o conhecimento  em responsividade criando um blog de gatos<br/>
+
+In this project I did an activity from Rockteset's explorer trail that expands knowledge about responsiveness by creating a cat blog<br/>
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/blog-gato.png">
 </p>
 
 <br>
@@ -21,28 +22,26 @@ nesse projeto fiz uma atividade da trilha explorer da rockteset que amplia o con
    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-nesse projeto fiz uma atividade de responsividade de blog de gatos
+In this project I did a cat blog responsiveness activity
 
-- [Visite o projeto online] (https://khnum782.github.io/Blog-de-gatos/)
+- [Visit the project online] (https://khnum782.github.io/Blog-de-gatos/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/aAEMaI5kXGNcSjUSG9eyBx/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=101%3A91&mode=dev) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+You can view the project layout through [DESSE LINK](https://www.figma.com/file/aAEMaI5kXGNcSjUSG9eyBx/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=101%3A91&mode=dev)It is necessary to have an account [Figma](https://figma.com)
+to access it.
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under license MIT.
 
----
-
-Feito com ♥ by Rocketseat :wave:
