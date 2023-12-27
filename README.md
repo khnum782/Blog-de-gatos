@@ -1,4 +1,4 @@
-<h1 align="center"> cat blog </h1>
+<h1 align="center"> Cat blog </h1>
 
 <p align="center">
 
